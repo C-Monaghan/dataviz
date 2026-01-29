@@ -6,7 +6,7 @@ format: gfm
 
 
 ```{r}
-#| include: false
+#| echo: false
 
 knitr::include_graphics(here::here("2026-01-29-switzerland/switzerland.png"))
 ```
