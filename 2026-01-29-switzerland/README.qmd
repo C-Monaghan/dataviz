@@ -1,0 +1,12 @@
+---
+format: gfm
+---
+
+# Switzerland Journey
+
+
+```{r}
+#| include: false
+
+knitr::include_graphics(here::here("2026-01-29-switzerland/switzerland.png"))
+```
