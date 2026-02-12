@@ -1,0 +1,11 @@
+---
+format: gfm
+---
+
+# Maynooth (Kildare, Ireland)
+
+```{r}
+#| echo: false
+
+knitr::include_graphics(here::here("2026-02-12-maynooth/maynooth.png"))
+```
