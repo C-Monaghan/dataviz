@@ -1,0 +1,13 @@
+---
+format: gfm
+---
+
+# 2026 Gallery
+
+```{r}
+#| label: gallery
+#| echo: false
+
+knitr::include_graphics(path = here::here("gallery/2026_gallery.png"))
+
+```
