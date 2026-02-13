@@ -1,0 +1,13 @@
+---
+format: gfm
+---
+
+# Railways of Ireland
+
+```{r}
+#| echo: false
+
+path <- this.path::this.dir()
+
+knitr::include_graphics(file.path(path, "railways.png"))
+```

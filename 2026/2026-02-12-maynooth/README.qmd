@@ -1,0 +1,13 @@
+---
+format: gfm
+---
+
+# Maynooth (Kildare, Ireland)
+
+```{r}
+#| echo: false
+
+path <- this.path::this.dir()
+
+knitr::include_graphics(file.path(path, "maynooth.png"))
+```

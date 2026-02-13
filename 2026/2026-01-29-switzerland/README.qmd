@@ -1,0 +1,14 @@
+---
+format: gfm
+---
+
+# Switzerland Journey
+
+
+```{r}
+#| echo: false
+
+path <- this.path::this.dir()
+
+knitr::include_graphics(file.path(path, "switzerland.png"))
+```
