@@ -1,0 +1,17 @@
+---
+format: gfm
+---
+
+# Data visualisations
+
+🗺️ A random set of data visualisations.
+
+## 2026
+
+```{r}
+#| label: gallery-2026
+#| echo: false
+
+knitr::include_graphics(here::here("gallery/2026_gallery.png"))
+
+```
