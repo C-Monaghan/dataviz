@@ -1,5 +1,0 @@
-
-
-# Switzerland Journey
-
-![](switzerland.png)
